@@ -1,3 +1,3 @@
 # aowumao-learning
-record learning
+recording learning
 
